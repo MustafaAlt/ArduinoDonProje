@@ -20,6 +20,8 @@ System.IO.Ports: Arduino ile seri haberleşme
 GDI+: Grafik çizim ve görselleştirme
 
 
-![image](https://github.com/user-attachments/assets/d40554ad-a8aa-43a9-897a-d0794b99158d)
-![image](https://github.com/user-attachments/assets/755fc825-236d-4953-b143-e435d44d5696)
+
+![image](https://github.com/user-attachments/assets/eb581b8e-bd34-4a70-84c6-b0f47f42e804)
+![image](https://github.com/user-attachments/assets/2f75317d-b256-4116-b2f7-7c5fd9f73454)
+
 
